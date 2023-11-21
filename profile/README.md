@@ -1,9 +1,10 @@
 ## ETERN
 
 Our Products
+- Team Voting [App](https://team-votings.etern.tech/)
 - Gym Management [App](https://easemygym.com)
 - Cafe Finance Management [App](https://counter.rasyacafe.com)
-- Online [Store](https://app.beforethegym.com)
+- Ecom [Store](https://app.beforethegym.com)
 
 Our Websites
 - [Rasya Cafe](https://rasyacafe.com/)
