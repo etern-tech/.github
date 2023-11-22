@@ -1,7 +1,7 @@
 ## ETERN Technologies
 
 Our Products
-- Team Voting [App](https://team-votings.etern.tech/)
+- Task Pointing [App](https://pointing.etern.tech/)
 - Gym Management [App](https://app.easemygym.com)
 - Cafe Finance Management [App](https://counter.rasyacafe.com)
 - Ecom [Store](https://app.beforethegym.com)
